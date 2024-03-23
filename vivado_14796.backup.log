@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Sun Dec 03 23:21:23 2023
+# Process ID: 14796
+# Current directory: C:/Users/young/prjct2/project_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent25052 C:\Users\young\prjct2\project_1\project_1.xpr
+# Log file: C:/Users/young/prjct2/project_1/vivado.log
+# Journal file: C:/Users/young/prjct2/project_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/young/prjct2/project_1/project_1.xpr
+ERROR: [Project 1-208] No val for DA Elab Attr
+Scanning sources...
+ERROR: [Common 17-70] Application Exception: SrcMgr::createSS : type not set
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Dec 03 23:21:46 2023...
